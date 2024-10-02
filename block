@@ -10,3 +10,7 @@
 ::1 t.me
 127.0.0.1 www.t.me
 127.0.0.1 t.me
+127.0.0.1 www.bing.com
+127.0.0.1 bing.com
+::1 www.bing.com
+::1 bing.com

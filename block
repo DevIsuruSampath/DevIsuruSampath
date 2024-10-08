@@ -14,3 +14,7 @@
 127.0.0.1 bing.com
 ::1 www.bing.com
 ::1 bing.com
+127.0.0.1 chatgpt.com
+127.0.0.1 www.chatgpt.com
+::1 chatgpt.com
+::1 www.chatgpt.com

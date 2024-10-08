@@ -18,3 +18,11 @@
 127.0.0.1 www.chatgpt.com
 ::1 chatgpt.com
 ::1 www.chatgpt.com
+127.0.0.1 www.claude.ai
+127.0.0.1 claude.ai
+::1 www.claude.ai
+::1 www.claude.ai
+127.0.0.1 astro.com
+127.0.0.1 www.astro.com
+::1 astro.com
+::1 www.astro.com

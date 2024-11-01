@@ -10,3 +10,7 @@
 ::1 t.me
 127.0.0.1 www.t.me
 127.0.0.1 t.me
+::1 www.astro.com
+::1 astro.com
+127.0.0.1 www.astro.com
+127.0.0.1 astro.com

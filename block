@@ -30,3 +30,7 @@
 ::1 quora.com
 127.0.0.1 www.quora.com
 127.0.0.1 quora.com
+127.0.0.1 www.github.com
+127.0.0.1 github.com
+::1 www.github.com
+::1 github.com

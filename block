@@ -30,7 +30,3 @@
 127.0.0.1 github.com
 ::1 www.github.com
 ::1 github.com
-127.0.0.1 www.youtube.com
-127.0.0.1 m.youtube.com
-::1 www.youtube.com
-::1 m.youtube.com

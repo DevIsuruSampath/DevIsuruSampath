@@ -3,4 +3,8 @@
 ::1  youtube.com
 ::1  m.youtube.com
 127.0.0.1  www.youtube.com
-::1  www.youtube.com
+::1 www.youtube.com
+127.0.0.1 claude.ai
+::1 claude.ai
+127.0.0.1 chatgpt.com
+::1 chatgpt.com
